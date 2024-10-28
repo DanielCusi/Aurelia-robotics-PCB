@@ -1,0 +1,4 @@
+
+[submodule "Llibreries/ESP32_mini_KiCad_Library-master"]
+	path = Llibreries/ESP32_mini_KiCad_Library-master
+	url = https://github.com/r0oland/ESP32_mini_KiCad_Library.git

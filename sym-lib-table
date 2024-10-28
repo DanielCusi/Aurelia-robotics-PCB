@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DRV8873")(type "KiCad")(uri "${KIPRJMOD}/Llibreries/ul_DRV8873HPWPR/2023-12-02_10-52-26.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS54531")(type "KiCad")(uri "${KIPRJMOD}/Llibreries/ul_TPS54531DDA/2023-12-02_12-25-46.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS563300")(type "KiCad")(uri "${KIPRJMOD}/Llibreries/ul_TPS563300DRLR/2023-12-02_13-22-04.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32_mini")(type "KiCad")(uri "${KIPRJMOD}/Llibreries/ESP32_mini_KiCad_Library-master/ESP32_mini.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS25730D")(type "KiCad")(uri "${KIPRJMOD}/Llibreries/TPS25730D/2024-05-18_16-19-33.kicad_sym")(options "")(descr ""))
+  (lib (name "TMP235")(type "KiCad")(uri "${KIPRJMOD}/Llibreries/TMP235/2024-06-08_11-01-01.kicad_sym")(options "")(descr ""))
+  (lib (name "TCA6408")(type "KiCad")(uri "${KIPRJMOD}/Llibreries/ul_TCA6408APWR/2024-06-09_20-53-12.kicad_sym")(options "")(descr ""))
+)
